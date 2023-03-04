@@ -14,3 +14,6 @@ PowerBI Dashboard
   
 DataCopy.xlsx
   A dummy version of the collected data, for use with the PowerBI Dashboard. Allows user to view graphs and the established connections/interactions. The file is data that was randomly generated, and does not represent accurate data collection. The real process data was removed for confidentiality reasons.  
+
+Pyinstalled executed code.txt
+  This is a txt file showing the output from the generation of a packaged .Py file. The final file is an executable that runs the .py files for both the GUI and RailUT notebooks. This file was packaged in such a way that any computer or user could use the file to execute the code; no python installation or code knowledge was needed. The actual file was too large to upload to Github, so I included the code for generating the file instead. Because some code was removed from RailUT for confidentiality, this application would not run either if it were included.
